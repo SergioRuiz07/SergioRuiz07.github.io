@@ -1,4 +1,4 @@
-# Portfolio de Sergio Ruiz Ortiz :wave:
+# Portfolio de Sergio Ruiz Ortiz:
 
 Web personal de presentación, publicada con **GitHub Pages**. Incluye mi perfil como estudiante de Desarrollo de Aplicaciones Web (DAW), mis habilidades técnicas y una lista de mis proyectos con enlaces a sus repositorios.
 
